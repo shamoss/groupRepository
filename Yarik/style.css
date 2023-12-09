@@ -1,0 +1,8 @@
+.imgLink{
+    border-radius: 20px;
+    border-color: rgb(132, 0, 0);
+    width: 200px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+}
